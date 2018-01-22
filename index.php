@@ -5,6 +5,7 @@ $email = "ls0701386@otc.edu";
 $movie = "Saving Private Ryan";
 $food = "Pizza";
 $technology = "VS";
+$hobby = "Fishing";
 
 ?>
 
